@@ -9,4 +9,6 @@
 
 本项目严禁用于营利性行为！
 
+欢迎各位大一下学期去QSB青软实训JavaSE的各位hxd们使用，水个85不是问题（想在青软实训水分高的话用丁真计算器，到我的Repositories找到下载就行，那个最终成绩92，报告我也上传了）
+
 © 2022 Sonaradar Electronic Inc.All rights reserved.
